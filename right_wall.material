@@ -1,0 +1,10 @@
+material RightWall
+{
+    technique
+    {
+        pass
+        {
+            diffuse 0, 0, 1
+        }
+    }
+}

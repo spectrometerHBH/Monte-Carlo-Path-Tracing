@@ -1,0 +1,10 @@
+material Box
+{
+    technique
+    {
+        pass
+        {
+            diffuse 0.95, 0.95, 0.95
+        }
+    }
+}

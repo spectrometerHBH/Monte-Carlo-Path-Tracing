@@ -1,0 +1,10 @@
+material LeftWall
+{
+    technique
+    {
+        pass
+        {
+            diffuse 1, 0, 0
+        }
+    }
+}
